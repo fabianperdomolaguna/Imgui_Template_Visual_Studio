@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="base">
+      <UniqueIdentifier>{99d60a3b-d8b4-41c6-a55f-503fd9c76273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utilities">
+      <UniqueIdentifier>{ac68c01c-5334-4bdd-8edb-7002bbd46527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="renderer">
+      <UniqueIdentifier>{9d28a3b1-ab71-4883-9886-5f85579dd00c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{576bfacd-df6d-4aab-bc3e-5c7a38b367a5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="base\window.ixx">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\imgui_context.ixx">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="utilities\settings_config.ixx">
+      <Filter>utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="base\application.ixx">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\layer.ixx">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="base\color_styles.ixx">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\texture.ixx">
+      <Filter>renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="utilities\image.ixx">
+      <Filter>utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\framebuffer.ixx">
+      <Filter>renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="shaders\shaders.ixx">
+      <Filter>shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\vertex.ixx">
+      <Filter>renderer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

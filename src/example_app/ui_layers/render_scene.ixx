@@ -10,7 +10,6 @@ import Application;
 import Layer;
 import Texture;
 import Image;
-import Window;
 import Framebuffer;
 import Vertex;
 

@@ -1,7 +1,7 @@
 <h1 align="center"">ImGui Template - Visual Studio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/fabianperdomolaguna/Imgui_Template_Visual_Studio?style=for-the-badge" alt="alt text">
+  <img src="https://img.shields.io/github/license/fabianperdomolaguna/Imgui_Template_Visual_Studio ?style=for-the-badge" alt="alt text">
   <img src="https://img.shields.io/badge/OS-Windows-003366?style=for-the-badge&logo=Windows%20Terminal" alt="alt text">
   <img src="https://img.shields.io/badge/Solution-C++20-00559C?style=for-the-badge&logo=C%2B%2B" alt="alt text">
 </p>

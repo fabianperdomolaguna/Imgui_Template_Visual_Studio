@@ -10,7 +10,6 @@ module;
 
 export module ImguiContext;
 
-import Window;
 import SettingsConfig;
 import ColorStyles;
 
